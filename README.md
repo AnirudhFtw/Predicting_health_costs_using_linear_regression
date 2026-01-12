@@ -1,4 +1,4 @@
-# Ridge Regression on Medical Expenses Dataset
+# Predicting Health Costs Using Linear Regression
 
 ## 📌 Project Overview
 This project demonstrates how to use **Ridge Regression** (a type of regularized linear regression) to predict **medical expenses** from patient data.  
